@@ -35,19 +35,19 @@
 <tr>
 
 <td align="center">
-<img src="./screenshots/dashboard.png" width="400" alt="Dashboard"/>
+<img src="./screenshots/dashboard.png" width="600" alt="Dashboard"/>
 <br/>
 <b>📊 Dashboard</b>
 </td>
 
 <td align="center">
-<img src="./screenshots/analytics.png" width="400" alt="Analytics"/>
+<img src="./screenshots/analytics.png" width="600" alt="Analytics"/>
 <br/>
 <b>📈 Analytics</b>
 </td>
 
 <td align="center">
-<img src="./screenshots/tasks.png" width="400" alt="Tasks"/>
+<img src="./screenshots/tasks.png" width="600" alt="Tasks"/>
 <br/>
 <b>✅ Task Tracker</b>
 </td>
