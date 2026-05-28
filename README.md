@@ -38,11 +38,19 @@
       <br/>
       <b>📊 Dashboard</b>
     </td>
+
+    <td align="center">
+      <img src="screenshots/analytics.png" width="400" alt="Analytics" />
+      <br/>
+      <b>📈 Analytics</b>
+    </td>
+    
     <td align="center">
       <img src="screenshots/tasks.png" width="400" alt="Tasks" />
       <br/>
       <b>✅ Task Tracker</b>
     </td>
+    
   </tr>
 </table>
 
