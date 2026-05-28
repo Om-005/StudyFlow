@@ -32,26 +32,27 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/dashboard.png" width="400" alt="Dashboard" />
-      <br/>
-      <b>📊 Dashboard</b>
-    </td>
+<tr>
 
-    <td align="center">
-      <img src="screenshots/analytics.png" width="400" alt="Analytics" />
-      <br/>
-      <b>📈 Analytics</b>
-    </td>
-    
-    <td align="center">
-      <img src="screenshots/tasks.png" width="400" alt="Tasks" />
-      <br/>
-      <b>✅ Task Tracker</b>
-    </td>
-    
-  </tr>
+<td align="center">
+<img src="./screenshots/dashboard.png" width="400" alt="Dashboard"/>
+<br/>
+<b>📊 Dashboard</b>
+</td>
+
+<td align="center">
+<img src="./screenshots/analytics.png" width="400" alt="Analytics"/>
+<br/>
+<b>📈 Analytics</b>
+</td>
+
+<td align="center">
+<img src="./screenshots/tasks.png" width="400" alt="Tasks"/>
+<br/>
+<b>✅ Task Tracker</b>
+</td>
+
+</tr>
 </table>
 
 </div>
