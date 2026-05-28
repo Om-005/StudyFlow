@@ -29,33 +29,17 @@
 
 ## 📱 Screenshots
 
-<div align="center">
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="900"/>
+</p>
 
-<table>
-<tr>
+<p align="center">
+  <img src="./screenshots/analytics.png" width="900"/>
+</p>
 
-<td align="center">
-<img src="./screenshots/dashboard.png" width="600" alt="Dashboard"/>
-<br/>
-<b>📊 Dashboard</b>
-</td>
-
-<td align="center">
-<img src="./screenshots/analytics.png" width="600" alt="Analytics"/>
-<br/>
-<b>📈 Analytics</b>
-</td>
-
-<td align="center">
-<img src="./screenshots/tasks.png" width="600" alt="Tasks"/>
-<br/>
-<b>✅ Task Tracker</b>
-</td>
-
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="./screenshots/tasks.png" width="900"/>
+</p>
 
 ---
 
